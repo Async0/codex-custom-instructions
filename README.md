@@ -15,7 +15,7 @@
 适合用于 Codex、ChatGPT、Claude Code、Cursor、GitHub Copilot Chat 等 AI 编码工具的自定义指令。
 
 ---
-# CODEX工作准则
+# 工作准则
 
 减少常见 LLM 编码错误的行为准则。
 根据需要与项目特定指令合并。
